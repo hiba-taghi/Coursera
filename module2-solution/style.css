@@ -1,0 +1,42 @@
+ * {
+  box-sizing: border-box;
+}
+
+
+ body {
+  font-family:cursive,monospace,serif;
+  color: black;
+}
+
+h1 { 
+ 	font-size: 175%;
+ 	text-align: center;
+ 	font-weight:bold;
+ 	color:red;
+ 	margin: 30px;
+ 	padding: 30px;
+  }
+
+ 
+div  {
+  border: 1px solid black;
+  margin:5px;
+  font-weight: 400;
+  padding:15px;
+  background-color: #A52A2A;
+}
+p{
+	 height:130px;
+    }
+
+div section{
+	font-size: 125%;
+	border:1px solid black;
+	position:relative;
+	bottom:15px;
+	left: 15px;
+	text-align:center;
+	width: 100px;
+	float: right;
+
+}
